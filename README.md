@@ -50,7 +50,7 @@
 [website]: https://mdmostafa.com/
 [twitter]: https://twitter.com/md__mostafa
 [youtube]:  https://mdmostafa.com/
-[linkedin]: https://www.linkedin.com/in/md-mostafa/
+[linkedin]: https://www.linkedin.com/feed/
 [webdevplaylist]: https://mdmostafa.com/
 [jsplaylist]: https://mdmostafa.com/
 [cssplaylist]: https://mdmostafa.com/
