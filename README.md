@@ -7,7 +7,7 @@
 - 🌱 Now I’m practicing everything 🤣
 - 🥅 2021 Goals: Learn Vue, Node, Puppeteer, Docker  
 - 🤔 I’m available to work for both project based and long term based
-- 📫 Reach me at: mostafa@mdmostafa.com
+- 📫 Reach me at: kabbo201996@gmail.com
 - ⚡ Fun fact: I love to see historical movies
 
 ### Connect with me:
