@@ -2,8 +2,8 @@
 ### Hi there, this is [Hridoy Das Kabbo][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ## I'm a 😍😍 JavaScript Lover | Problem Solver | Full Stack Developer 😍😍!
-- 🔭 I’m currently working at [Brain Station 23][website] as an Associate Software Engineer!
-- 🍥 Full Stack Developer
+- 🔭 I’m currently working at [Codixel.tech][website] as a Software Engineer!
+- 🍥 Backend Developer
 - 🌱 Now I’m practicing everything 🤣
 - 🥅 2021 Goals: Learn Vue, Node, Puppeteer, Docker  
 - 🤔 I’m available to work for both project based and long term based
