@@ -1,14 +1,14 @@
 ![gitHub_banner](https://user-images.githubusercontent.com/62140337/97580040-01b5d680-1a1d-11eb-8774-32afb7bfb1e1.png)
 ### Hi there, this is [Hridoy Das Kabbo][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## I'm a 😍😍 JavaScript Lover | Problem Solver | Full Stack Developer 😍😍!
+## I'm a 😍😍 PHP Lover | Problem Solver | Backend Developer Laravel 😍😍!
 - 🔭 I’m currently working at [Codixel.tech][website] as a Software Engineer!
 - 🍥 Backend Developer
 - 🌱 Now I’m practicing everything 🤣
-- 🥅 2021 Goals: Learn Vue, Node, Puppeteer, Docker  
+- 🥅 2021 Goals: Learn Python, C,C++, Puppeteer, Docker  
 - 🤔 I’m available to work for both project based and long term based
 - 📫 Reach me at: kabbo201996@gmail.com
-- ⚡ Fun fact: I love to see historical movies
+- ⚡ Fun fact: I love to see historical places,movies.
 
 ### Connect with me:
 
