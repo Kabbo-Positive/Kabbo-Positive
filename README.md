@@ -13,9 +13,9 @@
 ### Connect with me:
 
 [![Linked Follow]https://www.linkedin.com/feed/
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mostafamahmudbd)
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/13206610/mostafa-bd)
-[![Get Resume](https://img.shields.io/badge/%20-Resume%20Upload-black?color=#d8624c&labelColor=fff)](https://github.com/bdmostafa/bdmostafa/files/5460247/Md.Mostafa.Al.Mahmud.Resume.pdf)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)
+[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)]
+[![Get Resume]
 
 <br />
 
@@ -45,15 +45,4 @@
 <img width="550" alt="Md Mostafa Al Mahmud Github Stats"  src="https://github-readme-stats.vercel.app/api?username=bdmostafa&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=bdmostafa&card_width=550)](https://github.com/bdmostafa/bdmostafa)
-
-[Brain Station 23]: https://brainstation-23.com/
-[website]: https://mdmostafa.com/
-[twitter]: https://twitter.com/md__mostafa
-[youtube]:  https://mdmostafa.com/
-[linkedin]: https://www.linkedin.com/feed/
-[webdevplaylist]: https://mdmostafa.com/
-[jsplaylist]: https://mdmostafa.com/
-[cssplaylist]: https://mdmostafa.com/
-[reactplaylist]: https://mdmostafa.com/
-
 
