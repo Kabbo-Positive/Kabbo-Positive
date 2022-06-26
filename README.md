@@ -5,7 +5,7 @@
 - 🔭 I’m currently working at [Codixel.tech][website] as a Software Engineer!
 - 🍥 Backend Developer
 - 🌱 Now I’m practicing everything 🤣
-- 🥅 2021 Goals: Learn Python, C,C++, Puppeteer, Docker  
+- 🥅 2021 Goals: Learn PHP(Laravel, CodeIgniter), JS, Python, C,C++, Puppeteer, Docker  
 - 🤔 I’m available to work for both project based and long term based
 - 📫 Reach me at: kabbo201996@gmail.com
 - ⚡ Fun fact: I love to see historical places,movies.
